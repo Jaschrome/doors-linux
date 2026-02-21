@@ -1,6 +1,6 @@
 # Doors Linux
 
-Doors Linux is a custom Arch-based Linux distribution built using ArchISO.
+Doors Linux is a custom Arch-based meme built using ArchISO.
 The project focuses on controlled system identity, minimal configuration layering, and reproducible ISO builds.
 
 Doors Linux does not fork or modify Arch Linux packages.
@@ -9,7 +9,7 @@ It defines a custom build profile on top of the official ArchISO tooling.
 
 ## Overview
 
-Doors Linux is an exploration of Linux distribution construction using the ArchISO framework. The project demonstrates how a live ISO can be customized through:
+Doors is just a meme, and a pun on Windows operating system. It's a minimal arch installation and built for fun.
 
 * Profile configuration
 * Package selection control
@@ -78,11 +78,11 @@ The ISO will be generated in the `out/` directory.
 
 ## Design Principles
 
-* Minimal surface area
+* Minimal 
 * Transparent configuration
 * Reproducible builds
-* Clear separation between upstream packages and local customization
-* No unnecessary abstraction layers
+* separation between upstream packages and local customization
+* No  abstraction layers
 
 
 ## Roadmap
