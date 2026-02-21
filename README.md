@@ -110,6 +110,3 @@ The ISO will be generated in the `out/` directory.
 ## License
 
 MIT License
-
-* Add a technical deep-dive section explaining ArchISO internals
-* Or prepare it for a “real distribution” announcement level README
