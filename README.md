@@ -33,21 +33,6 @@ The distribution is generated from a custom ArchISO profile. All modifications o
 
 No upstream Arch packages are redistributed in modified form.
 
-
-## Repository Structure
-
-```
-doors-linux/
-├── profile/
-│   ├── airootfs/
-│   ├── efiboot/
-│   ├── profiledef.sh
-│   └── packages.x86_64
-├── screenshots/
-├── README.md
-└── LICENSE
-```
-
 ### profile/
 
 Contains the ArchISO build profile used to generate the live ISO.
