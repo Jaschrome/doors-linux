@@ -63,7 +63,7 @@ sudo pacman -S archiso
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/doors-linux.git
+git clone https://github.com/Jaschrome/doors-linux.git
 cd doors-linux/profile
 ```
 
